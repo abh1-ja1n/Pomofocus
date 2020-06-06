@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorPrimary">#E96D73</color>-->
+    <color name="colorPrimary">#F05B56</color>
+    <color name="colorPrimaryDark">#EF0A15</color>
+    <color name="colorAccent">#F05B56</color>
+    <color name="whenPlay">#4CA6A9</color>
+    <color name="whenWork">#fd958b</color>
+
+</resources>
